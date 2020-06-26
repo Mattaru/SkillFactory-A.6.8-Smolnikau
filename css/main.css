@@ -1,0 +1,6 @@
+.mr {
+	margin-top: 50px;
+}
+.mr > button {
+	margin-left: 20px;
+}
